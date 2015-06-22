@@ -1,1 +1,2 @@
-jakis tam kod w pliku drugim - wersja pierwsza
+jakis tam kod w pliku drugim - wersja druga
+jakies tam cuda
